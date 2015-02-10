@@ -1,0 +1,21 @@
+### SETUP PROCESS STARTED ###
+### SETUP PROCESS FINISHED ###
+2015-02-10 18:09:08.807 [NotebookApp] Using existing profile dir: u'/home/ubuntu/.ipython/profile_default'
+2015-02-10 18:09:08.881 [NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+2015-02-10 18:09:08.898 [NotebookApp] CRITICAL | WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+2015-02-10 18:09:08.898 [NotebookApp] CRITICAL | WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+2015-02-10 18:09:08.908 [NotebookApp] Serving notebooks from local directory: /mnt
+2015-02-10 18:09:08.908 [NotebookApp] 0 active kernels 
+2015-02-10 18:09:08.909 [NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8888/
+2015-02-10 18:09:08.909 [NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+2015-02-10 18:09:08.910 [NotebookApp] WARNING | No web browser found: could not locate runnable browser.
+2015-02-10 18:09:11.772 [tornado.access] 302 GET /notebooks (54.83.105.81) 0.67ms
+2015-02-10 18:09:13.349 [tornado.access] 302 GET /notebooks (54.83.105.81) 0.44ms
+2015-02-10 18:09:14.126 [tornado.access] 302 GET / (207.253.217.246) 0.50ms
+2015-02-10 18:09:14.808 [tornado.access] 302 GET /notebooks (54.83.105.81) 0.43ms
+2015-02-10 18:09:40.690 [NotebookApp] WARNING | Notebook /Untitled2.ipynb is not trusted
+2015-02-10 18:09:46.236 [NotebookApp] Kernel started: d4e71cb8-8c91-450d-9574-be69ee9de698
+2015-02-10 18:11:46.799 [NotebookApp] Saving notebook at /Untitled2.ipynb
+2015-02-10 18:11:46.802 [NotebookApp] WARNING | Saving untrusted notebook /Untitled2.ipynb
+2015-02-10 18:59:02.692 [tornado.access] 302 GET /notebooks (54.83.105.81) 0.46ms
+2015-02-10 18:59:04.005 [tornado.access] 302 GET /notebooks (54.83.105.81) 0.44ms

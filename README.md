@@ -1,4 +1,4 @@
-# Checkout the page for the repo here: http://vdimarco.github.io/yackathon/
+# Checkout the webpage for this repo at http://vdimarco.github.io/yackathon/
 
 ### <http://samanthaerinbick.cartodb.com/viz/a5a74564-afe1-11e4-b452-0e9d821ea90d/embed_map>
 
